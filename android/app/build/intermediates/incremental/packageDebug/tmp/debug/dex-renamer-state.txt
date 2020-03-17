@@ -1,0 +1,4 @@
+#Tue Aug 27 15:55:03 IST 2019
+base.0=/home/ashu/projects/one-meter/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
